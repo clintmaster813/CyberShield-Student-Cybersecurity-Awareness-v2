@@ -1,5 +1,5 @@
 # CyberShield - Student Cyber Security Awareness
-[![Project](https://img.shields.io/badge/Project-Cybersecurity-blue)](https://img.shields.io/badge/Project-Cybersecurity-blue) [![Status](https://img.shields.io/badge/Status-Completed-success)](https://img.shields.io/badge/Status-Completed-success) [![License](https://img.shields.io/badge/License-MIT-yellow)](https://img.shields.io/badge/License-MIT-yellow)
+[![Project](https://img.shields.io/badge/Project-Cybersecurity-blue)](https://img.shields.io/badge/Project-Cybersecurity-blue) [![Status](https://img.shields.io/badge/Status-Completed-success)](https://img.shields.io/badge/Status-Completed-success) 
 
 ## About
 CyberShield is a student-focused project aimed at educating students and regular internet users on common cyber threats and how to protect themself.
