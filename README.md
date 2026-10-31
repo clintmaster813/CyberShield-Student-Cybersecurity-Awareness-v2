@@ -28,7 +28,6 @@ cybershield-student-security/
 │
 ├── README.md
 │
-├── docs/
 │  ├── phishing-awareness.md
 │  ├── password-security.md
 │  ├── malware-awareness.md
@@ -38,7 +37,6 @@ cybershield-student-security/
 ├── resources/
 │  └── incident-response-guide.md
 │
-└── LICENSE
 ```
 ## Who is this project for?
 Students wanting to learn about cybersecurity
@@ -66,5 +64,4 @@ This project should only be used for educational purposes and raising awareness.
 [National Cyber Security Centre (NCSC)](https://www.ncsc.gov.uk/)
 [National Institute of Standards and Technology (NIST)](https://www.nist.gov/)
 [Federal Trade Commission (FTC)](https://consumer.ftc.gov/)
-## Licence
-This project uses the MIT Licence. For more information see the [LICENSE](LICENSE) file.
+
